@@ -38,6 +38,10 @@
       {
         "baslik": "Geri döndük!",
         "aciklama": "Merhabalar, Kallawi Studio olarak önceden oyunlar geliştiriyorduk şimdi tekrardan bir çok yeni özelliğimizle geri döndük!"
+      },
+    {
+        "baslik": "1928 Yayında!",
+        "aciklama": "Merhabalar, Bugün ilk oyunumuz 1928in demo hali yayınlandı.1928 ve Cenk Optimize edildi."
       }
     ]
   }
