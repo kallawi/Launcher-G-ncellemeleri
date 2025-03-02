@@ -1,7 +1,7 @@
 {
     "oyunlar": [
       {
-        "isim": "1928--",
+        "isim": "1928",
         "aciklama": "1928, akıllı tahta ve web tabanlı sorularla zenginleştirilmiş, takımınızın edebi bilgi ve strateji becerilerini kullanarak puan kazanabileceği heyecan verici bir edebiyat oyunudur. Bu oyun, Türk edebiyatının önemli eserlerini ve yazarlarını keşfederken, takım ruhunu pekiştirir ve eğlenceli bir rekabet ortamı sunar.",
         "logo": "./1928/resimler/logo.png",
         "aktif": true,
