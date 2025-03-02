@@ -1,0 +1,44 @@
+{
+    "oyunlar": [
+      {
+        "isim": "1928",
+        "aciklama": "1928, akıllı tahta ve web tabanlı sorularla zenginleştirilmiş, takımınızın edebi bilgi ve strateji becerilerini kullanarak puan kazanabileceği heyecan verici bir edebiyat oyunudur. Bu oyun, Türk edebiyatının önemli eserlerini ve yazarlarını keşfederken, takım ruhunu pekiştirir ve eğlenceli bir rekabet ortamı sunar.",
+        "logo": "./1928/resimler/logo.png",
+        "aktif": true,
+        "platform": "tahta",
+        "link": "./1928/index.html",
+        "acikKaynak": true
+      },
+      {
+        "isim": "Cenk",
+        "aciklama": "Cenk, akıllı tahta ve web tabanlı sorularla zenginleştirilmiş, takımınızın stratejik düşünme becerilerini geliştirmesine olanak tanıyan bir tarih oyunudur. Oyuncular, haritadaki bölgeleri ele geçirerek tarihsel olayları keşfederken, eğlenceli ve öğretici bir deneyim yaşarlar.",
+        "logo": "./resimler/cenkLogo.png",
+        "aktif": false,
+        "platform": "tahta",
+        "acikKaynak": true
+      },
+      {
+        "isim": "Cenk 2",
+        "aciklama": "Cenk 2, akıllı tahta ve web tabanlı sorularla zenginleştirilmiş, takımınızın stratejik düşünme becerilerini geliştirmesine olanak tanıyan bir tarih oyunudur. Oyuncular, haritadaki bölgeleri ele geçirerek tarihsel olayları keşfederken, eğlenceli ve öğretici bir deneyim yaşarlar.",
+        "logo": "./resimler/cenk2.png",
+        "aktif": false,
+        "platform": "tahta",
+        "acikKaynak": false
+      },
+      {
+        "isim": "Project2",
+        "aciklama": "İsimsiz bir proje, uzayın gizemli derinliklerinde henüz keşfedilmeyi bekliyor...",
+        "logo": "",
+        "aktif": false,
+        "platform": "mobil",
+        "acikKaynak": false
+      }
+    ],
+    "gelismeler": [
+      {
+        "baslik": "Geri döndük!",
+        "aciklama": "Merhabalar, Kallawi Studio olarak önceden oyunlar geliştiriyorduk şimdi tekrardan bir çok yeni özelliğimizle geri döndük!"
+      }
+    ]
+  }
+  
